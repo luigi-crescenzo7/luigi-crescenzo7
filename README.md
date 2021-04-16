@@ -9,5 +9,5 @@ Main interestes:
 <ol>
   <li>Cryptography</li>
   <li>Blockchain</li>
-  <li>Penetration Testing<li>
+  <li>Penetration Testing</li>
 </ol>
